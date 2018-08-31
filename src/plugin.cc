@@ -13,6 +13,8 @@
 
 //#include </root/Downloads/eigen-eigen-5a0156e40feb/Eigen/Dense>
 //#include <rbdl/rbdl.h>
+        
+//develope : adh
 
 #define PI      3.141592
 #define D2R     PI/180
