@@ -14,7 +14,7 @@
 //#include </root/Downloads/eigen-eigen-5a0156e40feb/Eigen/Dense>
 //#include <rbdl/rbdl.h>
         
-//develope : adh
+//develope : adh 18.8.31
 
 #define PI      3.141592
 #define D2R     PI/180
